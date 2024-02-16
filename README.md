@@ -1,5 +1,5 @@
 # ePaper32
-<img src ="Epaper 2.9 Module B.htm" />
+<img src ="./Epaper 2.9 Wifi Data.webp" />
 <ul>
 
   <li>
