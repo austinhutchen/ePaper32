@@ -2,7 +2,7 @@
 <ul>
 
   <li>
-    No backlight, keeps displaying last content for a long time even when power down
+    No backlight, keeps displaying last content for a long time even when powered down
   </li>
    <li>
    Ultra low power consumption, basically power is only required for refreshing
