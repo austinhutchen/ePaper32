@@ -1,1 +1,3 @@
-exec idf.py all
+exec . $HOME/esp/esp-idf/export.sh
+exec idf.py build
+
