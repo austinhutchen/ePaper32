@@ -1,0 +1,1 @@
+exec idf.py all
